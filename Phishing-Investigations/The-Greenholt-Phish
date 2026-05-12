@@ -1,1 +1,61 @@
+# The Greenholt Phish
 
+## Objective
+Analyze a phishing email and identify indicators of compromise.
+
+---
+
+## Email Details
+
+### Sender Display Name
+Mr James Jackson
+
+
+### Sender Email
+info@mutawamarine.com
+
+### Reply-To Email
+info.mutawamarine@mail.com
+
+### Originating IP
+192.119.71.157
+
+---
+
+## Infrastructure Analysis
+
+### IP Owner
+Hostwinds LLC
+
+### SPF Record
+v=spf1 include:spf.protection.outlook.com -all
+
+### DMARC Record
+v=DMARC1; p=quarantine; fo=1
+
+---
+
+## Attachment Analysis
+
+### Attachment Name
+SWT_#09674321____PDF__.CAB
+
+### SHA256 Hash
+2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f
+
+### File Size
+400.26 KB
+
+### Actual File Type
+RAR Archive
+
+---
+
+## Tools Used
+- VirusTotal
+- SPF Lookup
+- DMARC Lookup
+- sha256sum
+
+---
+The email was identified as a phishing attempt using a suspicious attachment and spoofed sender information.
