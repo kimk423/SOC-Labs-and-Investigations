@@ -8,13 +8,7 @@ Analyze a phishing email and identify indicators of compromise.
 ## Email Details
 
 ### Sender Display Name
-Mr James Jackson
-
-### Sender Email
-info@mutawamarine.com
-
-### Reply-To Email
-info.mutawamarine@mail.com
+MD MOSTAKIM HOSSAIN
 
 ### Originating IP
 192.119.71.157
