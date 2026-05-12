@@ -3,7 +3,8 @@
 ## Objective
 Analyze a phishing email and identify indicators of compromise.
 
----
+---<img width="938" height="192" alt="image" src="https://github.com/user-attachments/assets/d94e7764-426e-4663-8e03-18ae03c4b0f4" />
+
 
 ## Email Details
 
